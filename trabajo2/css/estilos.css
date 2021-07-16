@@ -1,0 +1,8 @@
+#principal{
+  position: absolute;
+  height: 100%;
+}
+
+body{
+  overflow: hidden;
+}

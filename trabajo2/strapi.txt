@@ -1,0 +1,11 @@
+Cripto---------------
+ars: float
+usd: float
+update: datetime
+
+---------------User---------------
+usuario: admin
+mail: admin@example.com
+password: 123456
+confirmed: ON
+
